@@ -9,3 +9,7 @@ Untuk saat ini hal ini hanyalah uraian garis besar untuk mengumpulkan informasi 
 
 Distribusi turunan Debian bervariasi dalam domain spesialisasi, basis pengguna, dan skala modifikasi/ekstensi yang dibawa oleh distribusi Vanilla Debian. Oleh karena itu, mungkin tidak ada aturan deterministik yang ketat, dan lebih tepatnya seperangkat pedoman yang dapat membantu untuk memutuskan tindakan mana yang harus diambil oleh pengembang turunan agar tidak menimbulkan kerugian bagi Debian, dan terlebih lagi agar mendapat keuntungan dari infrastruktur Debian/sumber daya/framework jika memungkinkan.
 
+## Infrastruktur
+
+Kami mendorong distribusi turunan untuk menyebutkan dan menjelaskan hubungannya dengan Debian di halaman web yang memberikan informasi tentang distro turunan (biasanya halaman about).
+Kami mendorong distribusi turunan untuk menggunakan infrastruktur Debian dan perangkat lunak yang mendukung infrastruktur Debian jika memungkinkan.
